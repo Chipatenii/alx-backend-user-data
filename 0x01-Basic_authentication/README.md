@@ -11,11 +11,11 @@ By the end of this project, you should be able to explain:
 - How to send the Authorization header in HTTP requests
 
 ## Resources
-- [REST API Authentication Mechanisms](https://example.com)
-- [Base64 in Python](https://example.com)
-- [HTTP Authorization Header](https://example.com)
-- [Flask Documentation](https://example.com)
-- [Base64 Concept](https://example.com)
+- [REST API Authentication Mechanisms](https://intranet.alxswe.com/rltoken/ssg5umgsMk5jKM8WRHk2Ug)
+- [Base64 in Python](https://intranet.alxswe.com/rltoken/RpaPRyKx1rdHgRSUyuPfeg)
+- [HTTP Authorization Header](https://intranet.alxswe.com/rltoken/WlARq8tQPUGQq5VphLKM4w)
+- [Flask Documentation](https://intranet.alxswe.com/rltoken/Zes_6jyFTaaem1lG47oTjQ)
+- [Base64 Concept](https://intranet.alxswe.com/rltoken/br6Rp4iMaOce6EAC-JQnOw)
 
 ## Project Details
 - **Project Duration**: Sep 2, 2024, 5:00 AM to Sep 4, 2024, 5:00 AM
