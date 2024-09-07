@@ -1,49 +1,42 @@
-#0x01. Basic authentication
-Back-end
-Authentification
- Weight: 1
- Project over - took place from Sep 2, 2024 5:00 AM to Sep 4, 2024 5:00 AM
- An auto review will be launched at the deadline
-In a nutshell…
-Auto QA review: 4.5/169 mandatory & 0.0/27 optional
-Altogether:  2.66%
-Mandatory: 2.66%
-Optional: 0.0%
-Calculation:  2.66% + (2.66% * 0.0%)  == 2.66%
-Background Context
-In this project, you will learn what the authentication process means and implement a Basic Authentication on a simple API.
+# 0x01. Basic Authentication
 
-In the industry, you should not implement your own Basic authentication system and use a module or framework that doing it for you (like in Python-Flask: Flask-HTTPAuth). Here, for the learning purpose, we will walk through each step of this mechanism to understand it by doing.
+## Description
+In this project, you will learn about the authentication process and implement Basic Authentication for a simple API. Though in real-world applications, Basic Authentication should be handled by established modules or frameworks (like Flask-HTTPAuth), this project is designed to teach you the mechanism by building it from scratch.
 
+## Learning Objectives
+By the end of this project, you should be able to explain:
+- What authentication means
+- What Base64 is and how to encode strings in Base64
+- What Basic Authentication is and how it works
+- How to send the Authorization header in HTTP requests
 
+## Resources
+- [REST API Authentication Mechanisms](https://example.com)
+- [Base64 in Python](https://example.com)
+- [HTTP Authorization Header](https://example.com)
+- [Flask Documentation](https://example.com)
+- [Base64 Concept](https://example.com)
 
-Resources
-Read or watch:
+## Project Details
+- **Project Duration**: Sep 2, 2024, 5:00 AM to Sep 4, 2024, 5:00 AM
+- **Auto QA Review**: 4.5/169 mandatory tasks completed
+- **Altogether**: 2.66%
 
-REST API Authentication Mechanisms
-Base64 in Python
-HTTP header Authorization
-Flask
-Base64 - concept
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+## Requirements
 
-General
-What authentication means
-What Base64 is
-How to encode a string in Base64
-What Basic authentication means
-How to send the Authorization header
-Requirements
-Python Scripts
-All your files will be interpreted/compiled on Ubuntu 18.04 LTS using python3 (version 3.7)
-All your files should end with a new line
-The first line of all your files should be exactly #!/usr/bin/env python3
-A README.md file, at the root of the folder of the project, is mandatory
-Your code should use the pycodestyle style (version 2.5)
-All your files must be executable
-The length of your files will be tested using wc
-All your modules should have a documentation (python3 -c 'print(__import__("my_module").__doc__)')
-All your classes should have a documentation (python3 -c 'print(__import__("my_module").MyClass.__doc__)')
-All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)')
-A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
+### General:
+- **Python Version**: Python 3.7
+- **Operating System**: Ubuntu 18.04 LTS
+- **Style Guidelines**: PEP 8 (pycodestyle 2.5)
+  
+### Python Scripts:
+- All scripts should start with `#!/usr/bin/env python3`.
+- All files should end with a new line.
+- All code must follow the pycodestyle format.
+- The length of all files will be checked using `wc`.
+
+### Documentation:
+- All modules, classes, and functions must have documentation explaining their purpose.
+- To view the documentation for any module, run: 
+  ```bash
+  python3 -c 'print(__import__("module_name").__doc__)'
